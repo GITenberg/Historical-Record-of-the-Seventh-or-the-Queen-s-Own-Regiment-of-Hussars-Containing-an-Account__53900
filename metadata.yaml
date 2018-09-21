@@ -1,0 +1,28 @@
+_repo: Historical-Record-of-the-Seventh-or-the-Queen-s-Own-Regiment-of-Hussars-Containing-an-Account__53900
+_version: 0.0.1
+alternative_title: Historical record of the 7th Hussars
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+description: ''
+gutenberg_issued: '2017-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53900'
+  lccn: '00423102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army. Queen''s Own Hussars, 7th'
+- !lcc 'UA'
+- GITenberg
+title: "Historical Record of the Seventh, or the Queen's Own Regiment of Hussars\r\
+  \nContaining an Account of the Origin of the Regiment in 1690, and of Its Subsequent\
+  \ Services to 1842"
+url: http://www.gutenberg.org/ebooks/53900
